@@ -20,7 +20,7 @@ Ich bin ein leidenschaftlicher Entwickler und Server-Administrator mit Fokus auf
 - Design mit benutzerdefinierten Hintergründen und responsiven Layouts
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralfpro224&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralfpro&show_icons=true&theme=dark)
 
 ## 🖥️ Tech Stack
 - **Programmiersprachen:**  
